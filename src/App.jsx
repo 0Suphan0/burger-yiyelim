@@ -5,6 +5,7 @@ import {Menu} from './components/Menu'
 import {About} from './components/About'
 import {Contact} from './components/Contact'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -20,7 +21,7 @@ function App() {
       <Route path='/contact' element={<Contact/>} />
     </Routes>
 
-
+    <Footer/>
     </div>
   
     
