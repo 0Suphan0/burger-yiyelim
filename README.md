@@ -30,6 +30,18 @@ npm start
 - **About**: Provides information about the restaurant.
 - **Contact**: Allows users to get in touch with the restaurant.
 
+## Screenshots
+
+<img src="ProjectSS/yemek1.png" width="400px">
+<hr>
+<img src="ProjectSS/yemek2.png" width="400px">
+<hr>
+<img src="ProjectSS/yemek3.png" width="400px">
+<hr>
+<img src="ProjectSS/yemek4.png" width="400px">
+<hr>
+<img src="ProjectSS/yemek5.png" width="400px">
+
 ---
 
 # Burger Yiyelim - React ile Web Sitesi
