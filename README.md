@@ -32,15 +32,15 @@ npm start
 
 ## Screenshots
 
-<img src="ProjectSS/yemek1.png" width="400px">
+<img src="ProjectSS/yemek1.png" width="auto">
 <hr>
-<img src="ProjectSS/yemek2.png" width="400px">
+<img src="ProjectSS/yemek2.png" width="auto">
 <hr>
-<img src="ProjectSS/yemek3.png" width="400px">
+<img src="ProjectSS/yemek3.png" width="auto">
 <hr>
-<img src="ProjectSS/yemek4.png" width="400px">
+<img src="ProjectSS/yemek4.png" width="auto">
 <hr>
-<img src="ProjectSS/yemek5.png" width="400px">
+<img src="ProjectSS/yemek5.png" width="auto">
 
 ---
 
